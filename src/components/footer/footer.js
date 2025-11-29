@@ -17,14 +17,14 @@ export default function Footer() {
     <div className="footer">
       <div className="footCont">
         <span className="copyrightText">
-          Copyright © {new Date().getFullYear()}. Haruki Mizuno. All rights reserved
+          Copyright © {new Date().getFullYear()}. Jackson. All rights reserved
         </span>
         <div className="socialinks">
           <span>Follow me</span>
           <a href="https://github.com/0x0Zeus" target="_blank">
             <FontAwesomeIcon icon={faGithub} />
           </a>
-          <a href="https://www.linkedin.com/in/haruki-mizuno-6310a6365/" target="_blank">
+          <a href="https://www.linkedin.com/in/jacson-lee-56204538b/" target="_blank">
             <FontAwesomeIcon icon={faLinkedin} />
           </a>
           <a href="mailto:100terry001@gmail.com" target="_blank">

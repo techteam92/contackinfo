@@ -10,8 +10,8 @@ export const IntroCard = (props)=>{
       </div>
       <div className="procode">
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}><span className="cm-keyword">const</span> <span className="cm-def">person</span> <span className="cm-operator">=</span> {"{"} &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></pre>
-        <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">Sername</span>: <span className="cm-string">"Haruki"</span>, &nbsp; </span></pre>
-        <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">lastname</span>: <span className="cm-string">"Mizuno"</span>,</span></pre>
+        <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">Sername</span>: <span className="cm-string">"Jackson"</span>, &nbsp; </span></pre>
+        <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">lastname</span>: <span className="cm-string">"Lee"</span>,</span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">age</span>: <span className="cm-string">"28"</span>,</span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">gender</span>: <span className="cm-string">"Male"</span>,</span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">hobbies</span>: [<span className="cm-string">"Thinking"</span>,</span></pre>
@@ -73,8 +73,8 @@ export const SocialCard = (props)=>{
             target="_blank">"github.com/0x0Zeus"</a>
         </span>,</span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">Linkedin</span>: <span className="cm-string">
-          <a className="sociolink" onClick={stoprop} href="https://www.linkedin.com/in/haruki-mizuno-6310a6365/"
-            target="_blank">"../haruki-mizuno-6310a6365"
+          <a className="sociolink" onClick={stoprop} href="https://www.linkedin.com/in/jacson-lee-56204538b/"
+            target="_blank">"../jacson-lee-56204538b"
           </a>
           </span>,</span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">gmail</span>: <span className="cm-string">
@@ -83,8 +83,8 @@ export const SocialCard = (props)=>{
           </a>
         </span>,</span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">WhatsApp</span>: <span className="cm-string">
-          <a className="sociolink" onClick={stoprop} href="https://whatsapp.com/chat/+13192894564"
-            target="_blank">"../chat/+13192894564"
+          <a className="sociolink" onClick={stoprop} href="https://whatsapp.com/chat/+18476869136"
+            target="_blank">"../chat/+18476869136"
           </a>
         </span>,</span></pre>
         <pre className="CodeMirror-line" role="presentation"><span role="presentation" style={{paddingRight: '0.1px'}}> &nbsp;<span className="cm-property">discord</span>: <span className="cm-string">
